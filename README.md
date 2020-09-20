@@ -1,6 +1,6 @@
 This is a random thing that i have been doing
 
-It's mpt really a virus it just makes a huge file using a list 
+It's not really a virus it just makes a huge file using a list 
 of course you can cancel useing CTRL + C
 
 
