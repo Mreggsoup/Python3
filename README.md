@@ -7,3 +7,5 @@ of course you can cancel useing CTRL + C
 #1 you need to have python3 installed 
 
 In your terminal run: python3 virus.py
+
+the fakewifihack python file fakes a wifi hack and then gives you a random string
