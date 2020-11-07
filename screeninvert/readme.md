@@ -30,7 +30,7 @@ or ./n (This to make the screen normal)
 
 SECOND WAY
 _____________________________________
-1. double click and run
+1. Choose either the file (i) or (n)
 
-2. Choose either the file (i) or (n)
 
+2. double click and run
