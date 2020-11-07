@@ -15,7 +15,7 @@ To be able to run this there are two ways and four steps
 
 
 
-HARD WAY
+FIRST WAY
 _____________________________________
 1. Make sure you're using linux
 
@@ -28,7 +28,7 @@ _____________________________________
 or ./n (This to make the screen normal)
 
 
-Easy way
+SECOND WAY
 _____________________________________
 1. double click and run
 
