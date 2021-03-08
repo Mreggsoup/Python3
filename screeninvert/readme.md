@@ -21,7 +21,7 @@ _____________________________________
 
 2. Open a termianl with CTRL + ALT + T
 
-3. Change the current directory the directory of the file using cd /home/user/DownloadDirectory
+3. Change the current directory to the directory of the file using cd /home/user/DownloadDirectory
 (Don't use the specifed path use the path on your computer)
 
 4. type in: ./i (This to invert screen)
